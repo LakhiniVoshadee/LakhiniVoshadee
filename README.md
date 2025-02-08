@@ -1,7 +1,6 @@
 <div align="center">
   
-<!-- Custom CSS styling -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
 
 <div align="center">
   <img width="200" height="200" src="https://avatars.githubusercontent.com/yourusername" alt="Profile Avatar" style="border-radius: 50%; border: 4px solid #FF69B4; box-shadow: 0 0 20px #FF69B4;" />
@@ -24,6 +23,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=header&animation=twinkling"/>
 </div>
+
+<!-- Custom CSS styling -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 <!-- About Me Section with Custom Styling -->
 <div align="center">
