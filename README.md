@@ -100,7 +100,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black](https://www.linkedin.com/in/lakhini-voshadee?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter"/>
